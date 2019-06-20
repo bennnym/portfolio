@@ -12,3 +12,11 @@
 .tech-icons {
   justify-content: space-around;
 }
+
+.sub-header-hover a {
+  color: goldenrod !important;
+}
+
+.proj-head {
+  color: #fff;
+}
